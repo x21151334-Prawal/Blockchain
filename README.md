@@ -35,10 +35,10 @@ Node.js
 - Step 2: Run the installer
 - Step 3: Once installed, open Terminal or command prompt and install the following dependencies
 
--		big-number ($ npm install big-number)
--		Dotenv ($ npm install dotenv)
--		ethereumjs-tx ($ npm install ethereumjs-tx)
--		web3 (($ npm install web3)
+-		npm install big-number
+-		npm install dotenv
+-		npm install ethereumjs-tx
+-		npm install web3
 
 
 Executing the Application Code
