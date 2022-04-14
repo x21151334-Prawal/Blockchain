@@ -164,8 +164,8 @@ contract PrawalERC20 is Context, IERC20, IERC20Metadata {
      * construction.
      */
     constructor() {
-        _name = "21151334 Prawal";
-        _symbol = "MST";
+        _name = "21151334_Prawal";
+        _symbol = "PSB";
         
         _mint(msg.sender, 1000000000000000000000000);
     }
