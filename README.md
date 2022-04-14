@@ -14,8 +14,8 @@ Remix IDE
 - Step 2: The user can either use the default workspace or connect to the localhost to use the project repository stored on the local machine
 - Step 3: Create the smart contract file with the extension (*.sol). The file DeployedContract.sol has been created for this project.
 - Step 4: Write the required code in the contract file which includes the name and symbol for the ERC-20 token
-		Name: 21151334_Prawal
-		Token: PSB
+	- Name: 21151334_Prawal
+	- Token: PSB
 - Step 5: Since we have used solidity version 0.8.0 in the code, then we have to compile the contract file using the same version. Click on Compile on the left hand tab of Remix.
 - Step 6: Once the contract file is compiled, go to the third tab on the left to deploy the contract through Metamask. The remix tool will automatically pickup the Metamask wallet address through the Metamask plugin installed earlier. Else, the user can do it manually by copying the Metamask wallet address and pasting it in Remix under account on Deploy Tab. 
 - Step 7: The user then has to select the Injected Web3 as environment and ERC20 under contract dropdown. Once done, then click on Deploy at the bottom of the tab.
